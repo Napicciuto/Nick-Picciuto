@@ -1,0 +1,39 @@
+body {
+	background-image:url('../img/wood_desk2.png');
+	background-color:#cccccc;
+	background-repeat: no-repeat;
+	background-size: 100%;	
+}
+.container-fluid{
+	height:100%;
+	width:100%;
+	margin:5% auto;
+}
+
+.resume {
+	height:100%;
+	width:100%;
+	position: relative;
+}
+.resume img {
+	position: absolute;	
+	width:76%;
+}
+
+.resume #cover {
+	width:72.8%;
+	left:29%;
+}
+
+.shadow {
+	box-shadow: 6px 6px 3px #440;
+}
+
+.lenShadow {
+	box-shadow: 18px 18px 14px #440;
+}
+
+.desk-top .card img {
+	margin-bottom: 6%;
+	width: 100%;
+}
